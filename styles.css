@@ -1,0 +1,18 @@
+.navi {
+    
+    margin: 0px;
+    padding: 0px;
+    position: sticky;
+    top: 20px;
+    
+    
+}
+.navdots *{
+     list-style-type: none; 
+    background-color:aqua ; 
+}
+
+#info{
+    background-color: red;
+    text-align: center;
+}
